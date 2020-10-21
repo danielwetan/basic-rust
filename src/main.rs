@@ -1,5 +1,7 @@
-mod print; // import printSomething file
+// mod print; // import printSomething file
+mod variable;
 
 fn main() {
-    print::run();
+    // print::run();
+    variable::run();
 }
