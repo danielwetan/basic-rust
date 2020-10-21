@@ -1,3 +1,5 @@
+mod print; // import printSomething file
+
 fn main() {
-    println!("Hello, world!");
+    print::run();
 }
